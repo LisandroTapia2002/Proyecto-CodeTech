@@ -1,1 +1,2 @@
-#Proyecto Code-Tech
+# Proyecto-CodeTech
+Proyecto del equipo CodeTech
