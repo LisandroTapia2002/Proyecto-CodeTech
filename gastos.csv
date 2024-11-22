@@ -2,3 +2,10 @@ Tipo,I.D.,Fecha,Categoría,Monto,Descripción
 ingreso,5966843.0,19-11-24,sueldo,200.0,sueldo
 Ingreso,30383011.0,2024-11-21 11:42:36,ingreso,1000.0,bono
 Ingreso,30383011.0,2024-11-21 12:30:16,sueldo,390.0,me pagó Carlitos
+Ingreso,30383011.0,2024-11-22 09:47:58,pago,1000.0,sueldo
+Egreso,30383011.0,2024-11-22 09:50:46,pago,1000.0,avena
+Ingreso,30383011.0,2024-11-22 10:06:41,sueldo,1000.0,sueldo
+Ingreso,30383011.0,2024-11-22 10:09:35,bono,2000.0,bono
+Egreso,30383011.0,2024-11-22 10:15:30,bono,1000.0,bono
+Ingreso,30383011.0,2024-11-22 10:21:36,sueldo,1000.0,sueldo
+Ingreso,30383011.0,16-11-2024,sueldo,1000.0,sueldo
